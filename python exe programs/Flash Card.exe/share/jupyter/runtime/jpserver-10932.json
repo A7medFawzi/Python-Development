@@ -1,0 +1,13 @@
+{
+  "base_url": "/",
+  "hostname": "localhost",
+  "password": false,
+  "pid": 10932,
+  "port": 8888,
+  "root_dir": "C:\\Users\\iiahm",
+  "secure": false,
+  "sock": "",
+  "token": "64e72819ffc01bb9b5e2eef1e593e3d11d0a895700af2937",
+  "url": "http://localhost:8888/",
+  "version": "1.11.0"
+}
